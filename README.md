@@ -4,7 +4,7 @@ An interactive Microsoft Excel dashboard analyzing air pollution across Indian s
 
  📸 Dashboard Preview
 
-![India Air Pollution Analysis Dashboard](YOUR-IMAGE-PATH)
+![India Air Pollution Analysis Dashboard](IMAGE-PATH_will add later)
 
  ✨ Key Analysis
 

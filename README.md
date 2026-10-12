@@ -3,6 +3,7 @@
 An interactive Microsoft Excel dashboard analyzing air pollution across Indian states and cities from 2021 to 2023, focusing on PM2.5, PM10, NO₂, and SO₂.
 
  📸 Dashboard Preview
+ [View LinkedIn Post](https://lnkd.in/p/dFuSQgsY)
 
 ![India Air Pollution Analysis Dashboard](IMAGE-PATH_will add later)
 

@@ -26,7 +26,7 @@ Microsoft Excel · Data Cleaning · Data Analysis · Data Visualization · Dashb
 
  🔗 Project Links
 
- 💼 [View LinkedIn Post](https://lnkd.in/p/dHX76z-a)
+ 💼 [View LinkedIn Post]([https://lnkd.in/p/dHX76z-a](https://lnkd.in/p/dFuSQgsY))
  🌐 [View Portfolio](YOUR-PORTFOLIO-LINK)
 
  👨‍💻 Author
